@@ -1,5 +1,7 @@
 # Peptide Pharmacokinetics Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23464099.svg)](https://doi.org/10.5281/zenodo.23464099)
+
 An open, sourced table of **half-life (t½) and time to peak (Tmax)** for 35 therapeutic and research peptides.
 Every number links to a primary source: an FDA label, a PubMed record, or a DOI.
 When no reliable data exists, the value is left **empty**. We do not fill gaps with estimates.
@@ -55,7 +57,9 @@ Interactive half-life curves built on this data: [Peptide Lab](https://klow-pept
 
 ## Cite
 
-> Klow Peptide (2026). *Peptide Pharmacokinetics Dataset* (v1.0.0). https://doi.org/TBD
+> Klow Peptide (2026). *Peptide Pharmacokinetics Dataset* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23464100
+
+To cite all versions, use the concept DOI: [10.5281/zenodo.23464099](https://doi.org/10.5281/zenodo.23464099). It always resolves to the latest version.
 
 See `CITATION.cff`. GitHub shows a "Cite this repository" button.
 
