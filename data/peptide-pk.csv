@@ -1,0 +1,36 @@
+peptide,aliases,half_life_h,half_life_range_h,tmax_h,tmax_range_h,route,species,evidence_level,source_type,source,pmid,pmcid,doi,notes
+Semaglutide,Ozempic;Wegovy,168,,,24-72,SC,human,A,regulatory_label,FDA label Ozempic injection (sec. 12.3),,,,Label: t1/2 about 1 week; Cmax reached 1 to 3 days post dose
+Tirzepatide,Mounjaro;Zepbound,120,,,8-72,SC,human,A,regulatory_label,FDA label Mounjaro (sec. 12.3),,,,Label: t1/2 about 5 days; Tmax 8 to 72 h
+Liraglutide,Victoza;Saxenda,13,,,8-12,SC,human,A,regulatory_label,FDA label Victoza (sec. 12.3),,,,Label: t1/2 about 13 h; Cmax at 8 to 12 h
+Dulaglutide,Trulicity,120,,48,24-72,SC,human,A,regulatory_label,FDA label Trulicity (sec. 12.3),,,,"Label: t1/2 about 5 days; Tmax 24 to 72 h at steady state, median 48 h"
+Exenatide,Byetta,2.4,,2.1,,SC,human,A,regulatory_label,FDA label Byetta (sec. 12.3),,,,Label: mean terminal t1/2 2.4 h; median Tmax 2.1 h
+Tesamorelin,Egrifta,0.13,,0.15,,SC,human,A,regulatory_label,FDA label Egrifta SV (sec. 12.3),,,,Label: mean t1/2 8 min; median Tmax 0.15 h. Older labels and many websites quote 26 to 38 min.
+Bremelanotide,PT-141;Vyleesi,2.7,1.9-4.0,1,0.5-1.0,SC,human,A,regulatory_label,FDA label Vyleesi (sec. 12.3),,,,Label: mean terminal t1/2 about 2.7 h (1.9 to 4.0); median Tmax about 1.0 h
+Teriparatide,Forteo,1,,0.5,,SC,human,A,regulatory_label,FDA label Forteo (sec. 12.3),,,,Label: serum t1/2 about 1 h; peak about 30 min after SC injection
+Setmelanotide,Imcivree,11,,8,,SC,human,A,regulatory_label,FDA label Imcivree (sec. 12.3),,,,Label: effective t1/2 about 11 h; median Tmax 8 h
+Octreotide,Sandostatin,1.8,1.7-1.9,0.4,,SC,human,A,regulatory_label,FDA label Sandostatin (sec. 12.3),,,,Label: apparent t1/2 1.7 to 1.9 h; peak 0.4 h after SC injection
+Retatrutide,LY3437943,144,,,,SC,human,B,clinical_trial,Urva S et al. Lancet 2022,36354040,,10.1016/S0140-6736(22)02033-5,Phase 1b in type 2 diabetes; abstract: half-life about 6 days
+Cagrilintide,,180,159-195,,24-72,SC,human,B,clinical_trial,Enebo LB et al. Lancet 2021,33894838,,10.1016/S0140-6736(21)00845-X,Co-administered with semaglutide 2.4 mg; abstract: t1/2 159 to 195 h; median Tmax 24 to 72 h
+CJC-1295 with DAC,DAC:GRF,168,139-194,,,SC,human,B,clinical_trial,Teichman SL et al. J Clin Endocrinol Metab 2006,16352683,,10.1210/jc.2005-1536,Abstract: estimated half-life 5.8 to 8.1 days
+Cotadutide,MEDI0382,11,9.5-12.1,,4.5-9.0,SC,human,B,clinical_trial,Ambery PD et al. Br J Clin Pharmacol 2018,29926478,PMC6138475,10.1111/bcp.13688,Abstract: t1/2 9.54 to 12.07 h; Tmax 4.50 to 9.00 h
+Thymosin alpha-1,Thymalfasin;Zadaxin,,<3,,1-2,SC,human,B,clinical_trial,Rost KL et al. Int J Clin Pharmacol Ther 1999,10027483,,,Abstract: elimination half-life less than 3 h; Tmax 1 to 2 h; three formulations
+Ipamorelin,,2,,,,IV,human,B,clinical_trial,Gobburu JV et al. Pharm Res 1999,10496658,,10.1023/a:1018955126402,Abstract: terminal half-life 2 h. IV infusion only; no SC data
+GHRP-6,,2.5,1.4-3.6,,,IV,human,B,clinical_trial,Cabrales A et al. Eur J Pharm Sci 2013,23099431,,10.1016/j.ejps.2012.10.006,"IV bolus, 9 healthy men; abstract: elimination t1/2 2.5 +/- 1.1 h"
+Thymosin beta-4,TB-500 (parent protein);NL005,,0.5-2.1,,0.05-0.25,IV,human,B,clinical_trial,Wang X et al. J Cell Mol Med 2021,34346165,PMC8419156,10.1111/jcmm.16693,Full text: t1/2 0.5 to 2.08 h; Tmax 3 to 15 min. Recombinant full-length Tb4. TB-500 (fragment) itself has no human PK.
+Hexarelin,,,,,,IV,human,C,clinical_trial,Imbimbo BP et al. Eur J Clin Pharmacol 1994,7957536,,10.1007/BF00191904,"Only the GH response is reported (peak about 30 min, decay t1/2 about 55 min). No drug PK."
+BPC-157,PL 14736,,<0.5,,,IM;IV,rat;dog,C,preclinical,He L et al. Front Pharmacol 2022,36588717,PMC9794587,10.3389/fphar.2022.1026182,Abstract: t1/2 less than 30 min in rats and dogs. No human PK published.
+Sermorelin,Geref,,,,,,,D,none,,,,,The Geref label was withdrawn and is not on DailyMed. The often quoted 11 to 12 min could not be checked.
+Melanotan II,MT-II,,,,,,,D,none,,,,,Dorr 1996 (PMID 8637402) is a phase 1 pilot that reports no PK values.
+Semax,,,,,,,,D,none,,,,,Rapid enzymatic degradation reported in rat tissue (PMID 15344653). No human t1/2.
+CJC-1295 (no DAC),Mod GRF 1-29,,,,,,,D,none,,,,,No dedicated human PK. Do not use DAC values.
+TB-500,Tb4 fragment 17-23,,,,,,,D,none,,,,,See Thymosin beta-4 for the parent protein.
+GHK-Cu,Copper tripeptide-1,,,,,,,D,none,,,,,
+KPV,,,,,,,,D,none,,,,,
+Selank,,,,,,,,D,none,,,,,Preclinical only.
+DSIP,,,,,,,,D,none,,,,,
+AOD-9604,,,,,,,,D,none,,,,,Animal only.
+LL-37,,,,,,,,D,none,,,,,Murine data only; no systemic human PK.
+Epitalon,Epithalon,,,,,,,D,none,,,,,No published PK in any species found.
+GHRP-2,Pralmorelin,,,,,,,D,none,,,,,
+IGF-1 LR3,,,,,,,,D,none,,,,,The widely quoted 20-30 h value has no primary source we could find.
+MOTS-c,,,,,,,,D,none,,,,,

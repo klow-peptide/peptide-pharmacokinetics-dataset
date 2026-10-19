@@ -1,0 +1,9 @@
+{
+  "title": "Peptide Pharmacokinetics Dataset",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "creators": [{ "name": "Klow Peptide" }],
+  "description": "Sourced half-life and Tmax values for 35 therapeutic and research peptides, with evidence levels (FDA label, human trial, animal, none). Empty values mean no published pharmacokinetic data.",
+  "keywords": ["peptides", "pharmacokinetics", "half-life", "open data"],
+  "related_identifiers": [{ "identifier": "https://klow-peptide.com/en/", "relation": "isSupplementTo", "scheme": "url" }]
+}

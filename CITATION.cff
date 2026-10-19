@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Peptide Pharmacokinetics Dataset"
+version: 1.0.0
+date-released: 2026-10-19
+license: CC-BY-4.0
+type: dataset
+authors:
+  - name: "Klow Peptide"
+    website: "https://klow-peptide.com"
+url: "https://klow-peptide.com/en/"
+repository-code: "https://github.com/klow-peptide/peptide-pharmacokinetics-dataset"
+keywords: [peptides, pharmacokinetics, half-life, tmax, GLP-1, open data]
