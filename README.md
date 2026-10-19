@@ -7,6 +7,7 @@ Every number links to a primary source: an FDA label, a PubMed record, or a DOI.
 When no reliable data exists, the value is left **empty**. We do not fill gaps with estimates.
 
 Maintained by [Klow Peptide](https://klow-peptide.com/en/). License: [CC BY 4.0](LICENSE).
+Overview of all our open resources: [klow-peptide.com/en/pages/open-data](https://klow-peptide.com/en/pages/open-data/).
 
 ## Why this dataset exists
 
