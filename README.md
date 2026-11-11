@@ -3,7 +3,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23464099.svg)](https://doi.org/10.5281/zenodo.23464099)
 
 An open, sourced table of **half-life (t½) and time to peak (Tmax)** for 35 therapeutic and research peptides.
-Every number links to a primary source: an FDA label, a PubMed record, or a DOI.
+Every number links directly to a primary source (a DailyMed FDA label, a PubMed or PMC record) and quotes
+the exact sentence it comes from. A script checks that the quote is in the source and that every number matches it.
 When no reliable data exists, the value is left **empty**. We do not fill gaps with estimates.
 
 Maintained by [Klow Peptide](https://klow-peptide.com/en/). License: [CC BY 4.0](LICENSE).
@@ -31,8 +32,9 @@ Epitalon and IGF-1 LR3. BPC-157 has animal data only.
 | `data/peptide-pk.csv` | The dataset, one row per peptide (source of truth) |
 | `data/peptide-pk.json` | The same data as JSON |
 | `METHODOLOGY.md` | Inclusion rules, evidence levels, how values are checked |
+| `VERIFICATION.md` | Row-by-row, value-level verification: link, location in the source, exact quote, status |
 | `scripts/build-json.js` | Rebuilds the JSON from the CSV |
-| `scripts/validate.js` | Checks the schema and that every PMID resolves on PubMed |
+| `scripts/validate.js` | Checks the schema, that every number is written in the quoted source text, that every PMID resolves on PubMed, and that every quote is present in the live source |
 
 ## Columns
 
@@ -45,7 +47,18 @@ Epitalon and IGF-1 LR3. BPC-157 has animal data only.
 | `species` | Species in the source study |
 | `evidence_level` | A, B, C or D (see above) |
 | `source_type`, `source`, `pmid`, `pmcid`, `doi` | Primary source |
+| `source_url` | Direct link: the DailyMed label page (by setid), or the PubMed / PMC record |
+| `source_location` | Where the values are: label version, effective date and section, or abstract / full text |
+| `source_quote` | The exact sentence(s) that state the values (` \| ` separates excerpts) |
+| `verified_on`, `verification_status` | Date of the last check; `verified`, `review` (a derived value, see `VERIFICATION.md`) or `no_data` |
 | `notes` | What the source says, and caveats (route, population) |
+
+## Check it
+
+```sh
+node scripts/validate.js            # schema, numbers vs quotes, PubMed, quotes vs live sources
+node scripts/validate.js --offline  # schema and numbers vs quotes only
+```
 
 ## Use it
 

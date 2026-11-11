@@ -5,7 +5,7 @@ const path = require('path');
 
 const CSV = path.join(__dirname, '../data/peptide-pk.csv');
 const OUT = path.join(__dirname, '../data/peptide-pk.json');
-const meta = { name: 'Peptide Pharmacokinetics Dataset', version: '1.0.0', license: 'CC-BY-4.0', units: 'hours' };
+const meta = { name: 'Peptide Pharmacokinetics Dataset', version: '1.1.0', license: 'CC-BY-4.0', units: 'hours' };
 
 function parseLine(line) {
   const cells = [];
