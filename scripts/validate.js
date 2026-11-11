@@ -94,10 +94,17 @@ const norm = s => s.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
   .replace(/\s+/g, '').toLowerCase();
 const stripTags = xml => xml.replace(/<[^>]+>/g, ' ');
 
+// Retries on HTTP 429/5xx (NCBI rate limit) with a growing pause.
 async function get(url) {
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`${res.status} ${url}`);
-  return res.text();
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch(url);
+    if (res.ok) return res.text();
+    if (attempt < 4 && (res.status === 429 || res.status >= 500)) {
+      await new Promise(ok => setTimeout(ok, 2000 * (attempt + 1)));
+      continue;
+    }
+    throw new Error(`${res.status} ${url}`);
+  }
 }
 
 async function sourceText(r) {

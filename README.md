@@ -50,7 +50,7 @@ Epitalon and IGF-1 LR3. BPC-157 has animal data only.
 | `source_url` | Direct link: the DailyMed label page (by setid), or the PubMed / PMC record |
 | `source_location` | Where the values are: label version, effective date and section, or abstract / full text |
 | `source_quote` | The exact sentence(s) that state the values (` \| ` separates excerpts) |
-| `verified_on`, `verification_status` | Date of the last check; `verified`, `review` (a derived value, see `VERIFICATION.md`) or `no_data` |
+| `verified_on`, `verification_status` | Date of the last check; `verified`, `review` (a derived value, see `VERIFICATION.md`; none in this release) or `no_data` |
 | `notes` | What the source says, and caveats (route, population) |
 
 ## Check it
@@ -58,6 +58,7 @@ Epitalon and IGF-1 LR3. BPC-157 has animal data only.
 ```sh
 node scripts/validate.js            # schema, numbers vs quotes, PubMed, quotes vs live sources
 node scripts/validate.js --offline  # schema and numbers vs quotes only
+node scripts/validate.js --strict   # also fails on any warning
 ```
 
 ## Use it

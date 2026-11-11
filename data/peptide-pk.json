@@ -229,7 +229,7 @@
       "aliases": [
         "Sandostatin"
       ],
-      "half_life_h": 1.8,
+      "half_life_h": null,
       "half_life_range_h": "1.7-1.9",
       "tmax_h": 0.4,
       "tmax_range_h": null,
@@ -245,7 +245,7 @@
       "source_location": "DailyMed SPL version 23 (effective 2026-07-22), section 12.3 Pharmacokinetics",
       "source_quote": "were reached 0.4 hours after dosing | had an apparent half-life of 1.7 to 1.9 hours",
       "verified_on": "2026-11-11",
-      "verification_status": "review",
+      "verification_status": "verified",
       "notes": "Label: apparent t1/2 1.7 to 1.9 h; peak 0.4 h after SC injection"
     },
     {
@@ -275,7 +275,7 @@
     {
       "peptide": "Cagrilintide",
       "aliases": [],
-      "half_life_h": 180,
+      "half_life_h": null,
       "half_life_range_h": "159-195",
       "tmax_h": null,
       "tmax_range_h": "24-72",
@@ -291,7 +291,7 @@
       "source_location": "PubMed abstract",
       "source_quote": "Cagrilintide 0·16-4·5 mg had a half-life of 159-195 h, with a median t max of 24-72 h",
       "verified_on": "2026-11-11",
-      "verification_status": "review",
+      "verification_status": "verified",
       "notes": "Co-administered with semaglutide 2.4 mg; abstract: t1/2 159 to 195 h; median Tmax 24 to 72 h"
     },
     {
@@ -299,7 +299,7 @@
       "aliases": [
         "DAC:GRF"
       ],
-      "half_life_h": 168,
+      "half_life_h": null,
       "half_life_range_h": "139-194",
       "tmax_h": null,
       "tmax_range_h": null,
@@ -315,7 +315,7 @@
       "source_location": "PubMed abstract",
       "source_quote": "The estimated half-life of CJC-1295 was 5.8-8.1 d",
       "verified_on": "2026-11-11",
-      "verification_status": "review",
+      "verification_status": "verified",
       "notes": "Abstract: estimated half-life 5.8 to 8.1 days"
     },
     {
@@ -323,7 +323,7 @@
       "aliases": [
         "MEDI0382"
       ],
-      "half_life_h": 11,
+      "half_life_h": null,
       "half_life_range_h": "9.5-12.1",
       "tmax_h": null,
       "tmax_range_h": "4.5-9.0",
@@ -339,7 +339,7 @@
       "source_location": "PubMed abstract",
       "source_quote": "time to maximum plasma concentration: 4.50-9.00 h; elimination half-life: 9.54-12.07 h",
       "verified_on": "2026-11-11",
-      "verification_status": "review",
+      "verification_status": "verified",
       "notes": "Abstract: t1/2 9.54 to 12.07 h; Tmax 4.50 to 9.00 h"
     },
     {
@@ -393,7 +393,7 @@
       "peptide": "GHRP-6",
       "aliases": [],
       "half_life_h": 2.5,
-      "half_life_range_h": "1.4-3.6",
+      "half_life_range_h": null,
       "tmax_h": null,
       "tmax_range_h": null,
       "route": "IV",
@@ -408,7 +408,7 @@
       "source_location": "PubMed abstract",
       "source_quote": "elimination half-life of GHRP-6 were 7.6 ± 1.9 min and 2.5 ± 1.1h",
       "verified_on": "2026-11-11",
-      "verification_status": "review",
+      "verification_status": "verified",
       "notes": "IV bolus, 9 healthy men; abstract: elimination t1/2 2.5 +/- 1.1 h"
     },
     {

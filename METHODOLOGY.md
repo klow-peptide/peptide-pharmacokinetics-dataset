@@ -45,5 +45,6 @@ Details and the row-by-row table are in `VERIFICATION.md`.
 
 - **1.1.0 (unreleased)**: direct source links for all 10 FDA-label rows (DailyMed setid); new columns
   `source_url`, `source_location`, `source_quote`, `verified_on`, `verification_status`;
-  value-level checks in `scripts/validate.js`; `VERIFICATION.md`. Five rows with a derived value are flagged `review`.
+  value-level checks in `scripts/validate.js`; `VERIFICATION.md`. Five derived values not stated in the source were removed
+  (octreotide, cagrilintide, CJC-1295 with DAC and cotadutide central half-lives; GHRP-6 mean ± SD range); see `VERIFICATION.md`.
 - **1.0.0 (2026-10)**: first public release, 35 peptides.
