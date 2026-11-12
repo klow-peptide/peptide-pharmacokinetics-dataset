@@ -1,6 +1,6 @@
 {
   "name": "Peptide Pharmacokinetics Dataset",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "CC-BY-4.0",
   "units": "hours",
   "records": [
@@ -22,6 +22,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=adec4fd2-6858-4c99-91d4-531f5f2a2d79",
+      "source_location": "DailyMed SPL version 20 (effective 2026-06-01), section 12.3 Pharmacokinetics",
+      "source_quote": "Maximum concentration of semaglutide is reached 1 to 3 days post dose | With an elimination half-life of approximately 1 week",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: t1/2 about 1 week; Cmax reached 1 to 3 days post dose"
     },
     {
@@ -42,6 +47,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2d7da5d-ad07-4228-955f-cf7e355c8cc0",
+      "source_location": "DailyMed SPL version 40 (effective 2026-08-27), section 12.3 Pharmacokinetics",
+      "source_quote": "the time to maximum plasma concentration of tirzepatide ranges from 8 to 72 hours | with an elimination half-life of approximately 5 days",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: t1/2 about 5 days; Tmax 8 to 72 h"
     },
     {
@@ -62,6 +72,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+      "source_location": "DailyMed SPL version 31 (effective 2025-10-14), section 12.3 Pharmacokinetics",
+      "source_quote": "maximum concentrations of liraglutide are achieved at 8 to 12 hours post dosing | with an elimination half-life of approximately 13 hours",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: t1/2 about 13 h; Cmax at 8 to 12 h"
     },
     {
@@ -81,6 +96,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=463050bd-2b1c-40f5-b3c3-0a04bb433309",
+      "source_location": "DailyMed SPL version 62 (effective 2026-06-16), section 12.3 Pharmacokinetics",
+      "source_quote": "the time to maximum plasma concentration of dulaglutide at steady state ranges from 24 to 72 hours, with a median of 48 hours | The elimination half-life of dulaglutide was approximately 5 days",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: t1/2 about 5 days; Tmax 24 to 72 h at steady state, median 48 h"
     },
     {
@@ -100,6 +120,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=53d03c03-ebf7-418d-88a8-533eabd2ee4f",
+      "source_location": "DailyMed SPL version 26 (effective 2025-09-02), section 12.3 Pharmacokinetics",
+      "source_quote": "exenatide reaches median peak plasma concentrations in 2.1 hours | the mean terminal half-life is 2.4 hours",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: mean terminal t1/2 2.4 h; median Tmax 2.1 h"
     },
     {
@@ -119,6 +144,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3d783378-b02d-4f19-99dd-0fc91a042224",
+      "source_location": "DailyMed SPL version 9 (effective 2026-07-29), section 12.3 Pharmacokinetics",
+      "source_quote": "the median T max was 0.15 h | Mean elimination half-life (t 1/2 ) of tesamorelin was 8 minutes",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: mean t1/2 8 min; median Tmax 0.15 h. Older labels and many websites quote 26 to 38 min."
     },
     {
@@ -139,6 +169,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+      "source_location": "DailyMed SPL version 2 (effective 2026-11-05), section 12.3 Pharmacokinetics",
+      "source_quote": "Bremelanotide median T max is approximately 1.0 hour (range: 0.5 - 1.0 hours) | mean terminal half-life of bremelanotide is approximately 2.7 hours (range: 1.9– 4.0 hours)",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: mean terminal t1/2 about 2.7 h (1.9 to 4.0); median Tmax about 1.0 h"
     },
     {
@@ -158,6 +193,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aae667c5-381f-4f92-93df-2ed6158d07b0",
+      "source_location": "DailyMed SPL version 44 (effective 2026-08-03), section 12.3 Pharmacokinetics",
+      "source_quote": "The peptide reaches peak serum concentrations about 30 minutes after subcutaneous injection | The half-life of teriparatide in serum was approximately 1 hour",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: serum t1/2 about 1 h; peak about 30 min after SC injection"
     },
     {
@@ -177,6 +217,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+      "source_location": "DailyMed SPL version 14 (effective 2026-04-01), section 12.3 Pharmacokinetics",
+      "source_quote": "reached maximum concentrations at a median tmax of 8 h after dosing | The effective elimination half-life (t½) of setmelanotide was approximately 11 hours",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: effective t1/2 about 11 h; median Tmax 8 h"
     },
     {
@@ -184,7 +229,7 @@
       "aliases": [
         "Sandostatin"
       ],
-      "half_life_h": 1.8,
+      "half_life_h": null,
       "half_life_range_h": "1.7-1.9",
       "tmax_h": 0.4,
       "tmax_range_h": null,
@@ -196,6 +241,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39",
+      "source_location": "DailyMed SPL version 23 (effective 2026-07-22), section 12.3 Pharmacokinetics",
+      "source_quote": "were reached 0.4 hours after dosing | had an apparent half-life of 1.7 to 1.9 hours",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Label: apparent t1/2 1.7 to 1.9 h; peak 0.4 h after SC injection"
     },
     {
@@ -215,12 +265,17 @@
       "pmid": "36354040",
       "pmcid": null,
       "doi": "10.1016/S0140-6736(22)02033-5",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36354040/",
+      "source_location": "PubMed abstract",
+      "source_quote": "its half-life was approximately 6 days",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Phase 1b in type 2 diabetes; abstract: half-life about 6 days"
     },
     {
       "peptide": "Cagrilintide",
       "aliases": [],
-      "half_life_h": 180,
+      "half_life_h": null,
       "half_life_range_h": "159-195",
       "tmax_h": null,
       "tmax_range_h": "24-72",
@@ -232,6 +287,11 @@
       "pmid": "33894838",
       "pmcid": null,
       "doi": "10.1016/S0140-6736(21)00845-X",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33894838/",
+      "source_location": "PubMed abstract",
+      "source_quote": "Cagrilintide 0·16-4·5 mg had a half-life of 159-195 h, with a median t max of 24-72 h",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Co-administered with semaglutide 2.4 mg; abstract: t1/2 159 to 195 h; median Tmax 24 to 72 h"
     },
     {
@@ -239,7 +299,7 @@
       "aliases": [
         "DAC:GRF"
       ],
-      "half_life_h": 168,
+      "half_life_h": null,
       "half_life_range_h": "139-194",
       "tmax_h": null,
       "tmax_range_h": null,
@@ -251,6 +311,11 @@
       "pmid": "16352683",
       "pmcid": null,
       "doi": "10.1210/jc.2005-1536",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/16352683/",
+      "source_location": "PubMed abstract",
+      "source_quote": "The estimated half-life of CJC-1295 was 5.8-8.1 d",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Abstract: estimated half-life 5.8 to 8.1 days"
     },
     {
@@ -258,7 +323,7 @@
       "aliases": [
         "MEDI0382"
       ],
-      "half_life_h": 11,
+      "half_life_h": null,
       "half_life_range_h": "9.5-12.1",
       "tmax_h": null,
       "tmax_range_h": "4.5-9.0",
@@ -270,6 +335,11 @@
       "pmid": "29926478",
       "pmcid": "PMC6138475",
       "doi": "10.1111/bcp.13688",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/29926478/",
+      "source_location": "PubMed abstract",
+      "source_quote": "time to maximum plasma concentration: 4.50-9.00 h; elimination half-life: 9.54-12.07 h",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Abstract: t1/2 9.54 to 12.07 h; Tmax 4.50 to 9.00 h"
     },
     {
@@ -290,6 +360,11 @@
       "pmid": "10027483",
       "pmcid": null,
       "doi": null,
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/10027483/",
+      "source_location": "PubMed abstract",
+      "source_quote": "with a mean t(max) between 1-2 hours | the short elimination half-life of less than 3 hours",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Abstract: elimination half-life less than 3 h; Tmax 1 to 2 h; three formulations"
     },
     {
@@ -307,13 +382,18 @@
       "pmid": "10496658",
       "pmcid": null,
       "doi": "10.1023/a:1018955126402",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+      "source_location": "PubMed abstract",
+      "source_quote": "with a short terminal half-life of 2 hours",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Abstract: terminal half-life 2 h. IV infusion only; no SC data"
     },
     {
       "peptide": "GHRP-6",
       "aliases": [],
       "half_life_h": 2.5,
-      "half_life_range_h": "1.4-3.6",
+      "half_life_range_h": null,
       "tmax_h": null,
       "tmax_range_h": null,
       "route": "IV",
@@ -324,6 +404,11 @@
       "pmid": "23099431",
       "pmcid": null,
       "doi": "10.1016/j.ejps.2012.10.006",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/23099431/",
+      "source_location": "PubMed abstract",
+      "source_quote": "elimination half-life of GHRP-6 were 7.6 ± 1.9 min and 2.5 ± 1.1h",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "IV bolus, 9 healthy men; abstract: elimination t1/2 2.5 +/- 1.1 h"
     },
     {
@@ -344,6 +429,11 @@
       "pmid": "34346165",
       "pmcid": "PMC8419156",
       "doi": "10.1111/jcmm.16693",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/",
+      "source_location": "PMC full text (Results, pharmacokinetics)",
+      "source_quote": "the T max was from 3 to 15 minutes, and t 1/2 was from 0.5 to 2.08 hours",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Full text: t1/2 0.5 to 2.08 h; Tmax 3 to 15 min. Recombinant full-length Tb4. TB-500 (fragment) itself has no human PK."
     },
     {
@@ -361,6 +451,11 @@
       "pmid": "7957536",
       "pmcid": null,
       "doi": "10.1007/BF00191904",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/7957536/",
+      "source_location": "PubMed abstract",
+      "source_quote": "peaking at about 30 min and then decreasing to baseline values within 240 min with a half-life of about 55 min",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Only the GH response is reported (peak about 30 min, decay t1/2 about 55 min). No drug PK."
     },
     {
@@ -380,6 +475,11 @@
       "pmid": "36588717",
       "pmcid": "PMC9794587",
       "doi": "10.3389/fphar.2022.1026182",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36588717/",
+      "source_location": "PubMed abstract",
+      "source_quote": "the elimination half-life (t 1/2 ) of prototype BPC157 was less than 30 min",
+      "verified_on": "2026-11-11",
+      "verification_status": "verified",
       "notes": "Abstract: t1/2 less than 30 min in rats and dogs. No human PK published."
     },
     {
@@ -399,6 +499,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "The Geref label was withdrawn and is not on DailyMed. The often quoted 11 to 12 min could not be checked."
     },
     {
@@ -418,6 +523,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "Dorr 1996 (PMID 8637402) is a phase 1 pilot that reports no PK values."
     },
     {
@@ -435,6 +545,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "Rapid enzymatic degradation reported in rat tissue (PMID 15344653). No human t1/2."
     },
     {
@@ -454,6 +569,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "No dedicated human PK. Do not use DAC values."
     },
     {
@@ -473,6 +593,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "See Thymosin beta-4 for the parent protein."
     },
     {
@@ -492,6 +617,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": null
     },
     {
@@ -509,6 +639,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": null
     },
     {
@@ -526,6 +661,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "Preclinical only."
     },
     {
@@ -543,6 +683,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": null
     },
     {
@@ -560,6 +705,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "Animal only."
     },
     {
@@ -577,6 +727,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "Murine data only; no systemic human PK."
     },
     {
@@ -596,6 +751,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "No published PK in any species found."
     },
     {
@@ -615,6 +775,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": null
     },
     {
@@ -632,6 +797,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": "The widely quoted 20-30 h value has no primary source we could find."
     },
     {
@@ -649,6 +819,11 @@
       "pmid": null,
       "pmcid": null,
       "doi": null,
+      "source_url": null,
+      "source_location": null,
+      "source_quote": null,
+      "verified_on": null,
+      "verification_status": "no_data",
       "notes": null
     }
   ]

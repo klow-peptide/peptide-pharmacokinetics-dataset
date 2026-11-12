@@ -24,9 +24,16 @@ Vendor pages, forums and secondary blogs are never used as a source.
 
 ## Verification
 
-- Every PMID and PMCID is checked against PubMed (first author and topic) with `scripts/validate.js`.
-- Every number from a study is checked against the abstract or the open full text.
-- Every label value is checked against the current label on DailyMed. Last check: 2026-10-19.
+Details and the row-by-row table are in `VERIFICATION.md`.
+
+- Every row with a value has a direct `source_url` (DailyMed setid for labels, PubMed or PMC for studies)
+  and a `source_quote` with the exact sentence that states the values.
+- `scripts/validate.js` checks, for every row:
+  - that the quote is present verbatim in the live source (DailyMed label section 12.3, PubMed abstract, or PMC full text);
+  - that every number in the value columns matches a time value written in the quote, after conversion to hours;
+  - that every PMID exists on PubMed with the cited first author.
+- A row whose number is derived rather than stated is marked `review` and listed in `VERIFICATION.md`.
+- Last full check: 2026-11-11.
 
 ## Known limits
 
@@ -36,4 +43,8 @@ Vendor pages, forums and secondary blogs are never used as a source.
 
 ## Changelog
 
+- **1.1.0 (unreleased)**: direct source links for all 10 FDA-label rows (DailyMed setid); new columns
+  `source_url`, `source_location`, `source_quote`, `verified_on`, `verification_status`;
+  value-level checks in `scripts/validate.js`; `VERIFICATION.md`. Five derived values not stated in the source were removed
+  (octreotide, cagrilintide, CJC-1295 with DAC and cotadutide central half-lives; GHRP-6 mean ± SD range); see `VERIFICATION.md`.
 - **1.0.0 (2026-10)**: first public release, 35 peptides.
