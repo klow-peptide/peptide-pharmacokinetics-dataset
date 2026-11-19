@@ -37,3 +37,4 @@ Vendor pages, forums and secondary blogs are never used as a source.
 ## Changelog
 
 - **1.0.0 (2026-10)**: first public release, 35 peptides.
+- **1.1.0 (2026-11)**: GHRP-2 moves from D to B (Pihoker 1998, PMID 9543135: 0.55 h, children, IV). Hexarelin row now carries the rat IV value (Roumi 2000, PMID 10611139) instead of an empty human row.

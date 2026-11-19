@@ -1,6 +1,6 @@
 {
   "name": "Peptide Pharmacokinetics Dataset",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "CC-BY-4.0",
   "units": "hours",
   "records": [
@@ -349,19 +349,19 @@
     {
       "peptide": "Hexarelin",
       "aliases": [],
-      "half_life_h": null,
+      "half_life_h": 1.27,
       "half_life_range_h": null,
       "tmax_h": null,
       "tmax_range_h": null,
       "route": "IV",
-      "species": "human",
+      "species": "rat",
       "evidence_level": "C",
-      "source_type": "clinical_trial",
-      "source": "Imbimbo BP et al. Eur J Clin Pharmacol 1994",
-      "pmid": "7957536",
+      "source_type": "preclinical",
+      "source": "Roumi M et al. Drug Metab Dispos 2000",
+      "pmid": "10611139",
       "pmcid": null,
-      "doi": "10.1007/BF00191904",
-      "notes": "Only the GH response is reported (peak about 30 min, decay t1/2 about 55 min). No drug PK."
+      "doi": null,
+      "notes": "Rat IV; abstract: t1/2 75.9 +/- 9.3 min. No human drug PK: Imbimbo 1994 (PMID 7957536) reports only the GH response (decay t1/2 about 55 min)."
     },
     {
       "peptide": "BPC-157",
@@ -603,19 +603,19 @@
       "aliases": [
         "Pralmorelin"
       ],
-      "half_life_h": null,
+      "half_life_h": 0.55,
       "half_life_range_h": null,
       "tmax_h": null,
       "tmax_range_h": null,
-      "route": null,
-      "species": null,
-      "evidence_level": "D",
-      "source_type": "none",
-      "source": null,
-      "pmid": null,
+      "route": "IV",
+      "species": "human",
+      "evidence_level": "B",
+      "source_type": "clinical_trial",
+      "source": "Pihoker C et al. J Clin Endocrinol Metab 1998",
+      "pmid": "9543135",
       "pmcid": null,
-      "doi": null,
-      "notes": null
+      "doi": "10.1210/jcem.83.4.4744",
+      "notes": "Single IV dose, 10 prepubertal children with short stature; abstract: t1/2beta 0.55 +/- 0.14 h. No adult or SC value published."
     },
     {
       "peptide": "IGF-1 LR3",
