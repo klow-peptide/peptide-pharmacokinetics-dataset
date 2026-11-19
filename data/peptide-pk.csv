@@ -17,7 +17,7 @@ Thymosin alpha-1,Thymalfasin;Zadaxin,,<3,,1-2,SC,human,B,clinical_trial,Rost KL 
 Ipamorelin,,2,,,,IV,human,B,clinical_trial,Gobburu JV et al. Pharm Res 1999,10496658,,10.1023/a:1018955126402,https://pubmed.ncbi.nlm.nih.gov/10496658/,PubMed abstract,with a short terminal half-life of 2 hours,2026-11-11,verified,Abstract: terminal half-life 2 h. IV infusion only; no SC data
 GHRP-6,,2.5,,,,IV,human,B,clinical_trial,Cabrales A et al. Eur J Pharm Sci 2013,23099431,,10.1016/j.ejps.2012.10.006,https://pubmed.ncbi.nlm.nih.gov/23099431/,PubMed abstract,elimination half-life of GHRP-6 were 7.6 ± 1.9 min and 2.5 ± 1.1h,2026-11-11,verified,"IV bolus, 9 healthy men; abstract: elimination t1/2 2.5 +/- 1.1 h"
 Thymosin beta-4,TB-500 (parent protein);NL005,,0.5-2.1,,0.05-0.25,IV,human,B,clinical_trial,Wang X et al. J Cell Mol Med 2021,34346165,PMC8419156,10.1111/jcmm.16693,https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/,"PMC full text (Results, pharmacokinetics)","the T max was from 3 to 15 minutes, and t 1/2 was from 0.5 to 2.08 hours",2026-11-11,verified,Full text: t1/2 0.5 to 2.08 h; Tmax 3 to 15 min. Recombinant full-length Tb4. TB-500 (fragment) itself has no human PK.
-Hexarelin,,,,,,IV,human,C,clinical_trial,Imbimbo BP et al. Eur J Clin Pharmacol 1994,7957536,,10.1007/BF00191904,https://pubmed.ncbi.nlm.nih.gov/7957536/,PubMed abstract,peaking at about 30 min and then decreasing to baseline values within 240 min with a half-life of about 55 min,2026-11-11,verified,"Only the GH response is reported (peak about 30 min, decay t1/2 about 55 min). No drug PK."
+Hexarelin,,1.27,,,,IV,rat,C,preclinical,Roumi M et al. Drug Metab Dispos 2000,10611139,,,https://pubmed.ncbi.nlm.nih.gov/10611139/,PubMed abstract,hexarelin displayed a half-life of 75.9 +/- 9.3 min,2026-11-19,verified,"Rat IV. No human drug PK: Imbimbo 1994 (PMID 7957536) reports only the GH response (decay t1/2 about 55 min)."
 BPC-157,PL 14736,,<0.5,,,IM;IV,rat;dog,C,preclinical,He L et al. Front Pharmacol 2022,36588717,PMC9794587,10.3389/fphar.2022.1026182,https://pubmed.ncbi.nlm.nih.gov/36588717/,PubMed abstract,the elimination half-life (t 1/2 ) of prototype BPC157 was less than 30 min,2026-11-11,verified,Abstract: t1/2 less than 30 min in rats and dogs. No human PK published.
 Sermorelin,Geref,,,,,,,D,none,,,,,,,,,no_data,The Geref label was withdrawn and is not on DailyMed. The often quoted 11 to 12 min could not be checked.
 Melanotan II,MT-II,,,,,,,D,none,,,,,,,,,no_data,Dorr 1996 (PMID 8637402) is a phase 1 pilot that reports no PK values.
@@ -31,6 +31,6 @@ DSIP,,,,,,,,D,none,,,,,,,,,no_data,
 AOD-9604,,,,,,,,D,none,,,,,,,,,no_data,Animal only.
 LL-37,,,,,,,,D,none,,,,,,,,,no_data,Murine data only; no systemic human PK.
 Epitalon,Epithalon,,,,,,,D,none,,,,,,,,,no_data,No published PK in any species found.
-GHRP-2,Pralmorelin,,,,,,,D,none,,,,,,,,,no_data,
+GHRP-2,Pralmorelin,0.55,,,,IV,human,B,clinical_trial,Pihoker C et al. J Clin Endocrinol Metab 1998,9543135,,10.1210/jcem.83.4.4744,https://pubmed.ncbi.nlm.nih.gov/9543135/,PubMed abstract,t(1/2beta) = 0.55 +/- 0.14 h,2026-11-19,verified,"Single IV dose, 10 prepubertal children with short stature. No adult or SC value published."
 IGF-1 LR3,,,,,,,,D,none,,,,,,,,,no_data,The widely quoted 20-30 h value has no primary source we could find.
 MOTS-c,,,,,,,,D,none,,,,,,,,,no_data,

@@ -18,11 +18,11 @@ This dataset separates what is measured in humans from what is only assumed.
 | Evidence level | Meaning | Peptides |
 |---|---|---|
 | **A** | Regulatory label (FDA prescribing information) | 10 |
-| **B** | Human clinical trial, PK reported | 8 |
+| **B** | Human clinical trial, PK reported | 9 |
 | **C** | Animal PK only, or human data without drug PK | 2 |
-| **D** | No published pharmacokinetic data found | 15 |
+| **D** | No published pharmacokinetic data found | 14 |
 
-Key finding: **15 of 35 peptides (43 %) have no published half-life at all**, including TB-500, GHK-Cu,
+Key finding: **14 of 35 peptides (40 %) have no published half-life at all**, including TB-500, GHK-Cu,
 Epitalon and IGF-1 LR3. BPC-157 has animal data only.
 
 ## Files

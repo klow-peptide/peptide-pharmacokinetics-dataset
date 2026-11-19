@@ -43,6 +43,7 @@ Details and the row-by-row table are in `VERIFICATION.md`.
 
 ## Changelog
 
+- **1.1.1 (2026-11-19)**: GHRP-2 moves from D to B (Pihoker 1998, PMID 9543135: 0.55 h, children, IV). The hexarelin row now carries the rat IV value (Roumi 2000, PMID 10611139); the human study reports only the GH response.
 - **1.1.0 (unreleased)**: direct source links for all 10 FDA-label rows (DailyMed setid); new columns
   `source_url`, `source_location`, `source_quote`, `verified_on`, `verification_status`;
   value-level checks in `scripts/validate.js`; `VERIFICATION.md`. Five derived values not stated in the source were removed

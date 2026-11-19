@@ -80,13 +80,14 @@ Values are in hours. The quote keeps the unit used by the source; the script con
 | Thymosin alpha-1 | t½ range <3 h; Tmax range 1-2 h | [Rost KL et al. Int J Clin Pharmacol Ther 1999](https://pubmed.ncbi.nlm.nih.gov/10027483/) | PubMed abstract | with a mean t(max) between 1-2 hours <br> the short elimination half-life of less than 3 hours | verified |
 | Ipamorelin | t½ 2 h | [Gobburu JV et al. Pharm Res 1999](https://pubmed.ncbi.nlm.nih.gov/10496658/) | PubMed abstract | with a short terminal half-life of 2 hours | verified |
 | GHRP-6 | t½ 2.5 h | [Cabrales A et al. Eur J Pharm Sci 2013](https://pubmed.ncbi.nlm.nih.gov/23099431/) | PubMed abstract | elimination half-life of GHRP-6 were 7.6 ± 1.9 min and 2.5 ± 1.1h | verified |
+| GHRP-2 | t½ 0.55 h | [Pihoker C et al. J Clin Endocrinol Metab 1998](https://pubmed.ncbi.nlm.nih.gov/9543135/) | PubMed abstract | t(1/2beta) = 0.55 +/- 0.14 h | verified |
 | Thymosin beta-4 | t½ range 0.5-2.1 h; Tmax range 0.05-0.25 h | [Wang X et al. J Cell Mol Med 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8419156/) | PMC full text (Results, pharmacokinetics) | the T max was from 3 to 15 minutes, and t 1/2 was from 0.5 to 2.08 hours | verified |
-| Hexarelin | (no value) | [Imbimbo BP et al. Eur J Clin Pharmacol 1994](https://pubmed.ncbi.nlm.nih.gov/7957536/) | PubMed abstract | peaking at about 30 min and then decreasing to baseline values within 240 min with a half-life of about 55 min | verified |
+| Hexarelin | t½ 1.27 h (rat) | [Roumi M et al. Drug Metab Dispos 2000](https://pubmed.ncbi.nlm.nih.gov/10611139/) | PubMed abstract | hexarelin displayed a half-life of 75.9 +/- 9.3 min | verified |
 | BPC-157 | t½ range <0.5 h | [He L et al. Front Pharmacol 2022](https://pubmed.ncbi.nlm.nih.gov/36588717/) | PubMed abstract | the elimination half-life (t 1/2 ) of prototype BPC157 was less than 30 min | verified |
 
 ## Rows with no published data (status `no_data`)
 
 These rows hold no number, so there is nothing to verify. The `notes` column says what was searched or found.
 
-Sermorelin, Melanotan II, Semax, CJC-1295 (no DAC), TB-500, GHK-Cu, KPV, Selank, DSIP, AOD-9604, LL-37, Epitalon, GHRP-2, IGF-1 LR3, MOTS-c.
+Sermorelin, Melanotan II, Semax, CJC-1295 (no DAC), TB-500, GHK-Cu, KPV, Selank, DSIP, AOD-9604, LL-37, Epitalon, IGF-1 LR3, MOTS-c.
 
