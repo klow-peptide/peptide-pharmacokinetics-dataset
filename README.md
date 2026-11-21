@@ -78,6 +78,10 @@ To cite all versions, use the concept DOI: [10.5281/zenodo.23464099](https://doi
 
 See `CITATION.cff`. GitHub shows a "Cite this repository" button.
 
+## Security and privacy
+
+See [SECURITY.md](SECURITY.md). The data files are static. The optional online mode of `scripts/validate.js` queries only DailyMed, NCBI PMC Open Access and PubMed E-utilities. There is no telemetry.
+
 ## Disclaimer
 
 This dataset is for research and educational use only. It is not medical advice and it gives no dosing guidance.
